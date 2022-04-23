@@ -1,4 +1,4 @@
-# WCA-TOOL - Utility for working with wildcore DMS.
+# WCA-TOOL - Utility for working with wildcore DMS
 
 ### Install wca-tool
 1. Run this command to download the current release of wca tool:
