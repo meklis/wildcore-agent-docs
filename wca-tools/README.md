@@ -1,21 +1,9 @@
-# First installation *wildcore* over wca-tool
-## Requirements:
-* System
-  * 2cores+ CPU
-  * 4Gb+ memory
-  * 50Gb+ SSD
-* OS
-  * Linux (Ubuntu/Debian)
-  * MacOS
-  * WSL (linux on windows)
-* docker (>=20.10)
-* docker-compose (>=2.4)
+# WCA-TOOL - Util for working with wildcore DMS.
 
-## Install wildcore agent
 ### Install wca-tool
 1. Run this command to download the current release of wca tool:
 ```shell
-sudo curl -L "https://releases.wildcore.tools/wca-tool/latest/wca-tool-$(uname -s)-$(uname -m)" -o /usr/local/bin/wca-tool
+sudo curl -L "https://releases.wildcore.tools/wca-tool/0.0.5/wca-tool-$(uname -s)-$(uname -m)" -o /usr/local/bin/wca-tool
 ```
 2. Apply executable permissions to the binary: 
 ```shell
@@ -31,4 +19,14 @@ wca-tool version 0.0.1
 ```
 
 ### Install agent 
-@TODO 
+1. Run command over sudo or root   
+```shell
+sudo wca-tool --key=<YOU AGENT UNIQUE KEY> install
+```
+After installation you can access to DMS over http://<SERVER_IP>:8088 or over cli (type `wca --help` for info)
+
+
+### Update/Upgrade agent 
+```shell
+sudo wca-tool update --version=<version to install> 
+```
