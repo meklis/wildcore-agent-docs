@@ -28,5 +28,5 @@ After installation you can access to DMS over http://<SERVER_IP>:8088 or over cl
 
 ### Update/Upgrade agent 
 ```shell
-sudo wca-tool update --version=<version to install> 
+sudo wca-tool update 
 ```
