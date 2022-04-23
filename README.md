@@ -19,4 +19,5 @@ In response we send unique key for you agent (key required for installation).
 ## Installation
 Please use `wca-tool` for first installation, docs -  [wca-tool](/wca-tools/README.md)
 
-## Upgrade table 
+## Migration table 
+* 0.5.x -> 0.6.x - [recomendations](migrates/0.5.x_0.6.x.md)
