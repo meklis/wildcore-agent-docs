@@ -15,7 +15,7 @@ wca-tool --version
 ```
 Example output:
 ```shell
-wca-tool version 0.0.1 
+wca-tool version 0.0.5 
 ```
 
 ### Install agent 
