@@ -30,3 +30,15 @@ After installation you can access to DMS over http://<SERVER_IP>:8088 or over cl
 ```shell
 sudo wca-tool update 
 ```
+
+### Backup/Restoring agent
+- For create backup - run command:
+```shell
+sudo wca-tool backup
+```
+backup will be created in /opt/wildcore-dms/backups with automatic name (yyyymmddhhii.tar.gz)
+
+- For restoring from backup - run command: 
+```shell
+sudo wca-tool restore --name <name of archive, without extension (.tar.gz)>
+```
