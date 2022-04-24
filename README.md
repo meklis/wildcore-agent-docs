@@ -5,7 +5,7 @@ Device management system
 - **For installer** - for monitor realtime situation with devices in the field 
 - **For operator** - for fast detecting problem when user/subscriber calling
 - **For engineer** - for monitoring and notifications about problems (for example - downing BGP session) 
-- **For the provider as a whole** - to reduce the response time to diagnostics
+- **For the provider** - to reduce the response time to diagnostics
 
 ## Basic features
 - Adaptive web interface for desktop, tablet or phone
