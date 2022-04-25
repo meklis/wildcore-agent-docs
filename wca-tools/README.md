@@ -21,7 +21,7 @@ wca-tool version 0.0.6
 ### Install agent 
 1. Run command over sudo or root   
 ```shell
-sudo wca-tool --key=<YOU AGENT UNIQUE KEY> install
+sudo wca-tool --key=<YOUR AGENT UNIQUE KEY> install
 ```
 After installation you can access to DMS over http://<SERVER_IP>:8088 or over cli (type `wca --help` for info)
 
