@@ -3,7 +3,7 @@
 ### Install wca-tool
 1. Run this command to download the current release of wca tool:
 ```shell
-sudo curl -L "https://releases.wildcore.tools/wca-tool/0.0.5/wca-tool-$(uname -s)-$(uname -m)" -o /usr/local/bin/wca-tool
+sudo curl -L "https://releases.wildcore.tools/wca-tool/latest/wca-tool-$(uname -s)-$(uname -m)" -o /usr/local/bin/wca-tool
 ```
 2. Apply executable permissions to the binary: 
 ```shell
@@ -15,7 +15,7 @@ wca-tool --version
 ```
 Example output:
 ```shell
-wca-tool version 0.0.5 
+wca-tool version 0.0.6
 ```
 
 ### Install agent 
