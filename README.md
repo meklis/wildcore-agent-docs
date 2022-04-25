@@ -1,5 +1,5 @@
 # WildcoreDMS documentation
-Device management system 
+Device management system     
 Screens - [link](./wca/agent-screens.md)
 
 ## Who is this tool for?
