@@ -1,5 +1,6 @@
 # WildcoreDMS documentation
 Device management system 
+Screens - [link](./wca/agent-screens.md)
 
 ## Who is this tool for?
 - **For installer** - for monitor realtime situation with devices in the field 
