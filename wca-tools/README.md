@@ -21,7 +21,7 @@ wca-tool version 0.0.6
 ### Install agent 
 1. Run command over sudo or root   
 ```shell
-sudo wca-tool --key=<YOUR AGENT UNIQUE KEY> install
+sudo wca-tool --key=YOUR_AGENT_UNIQUE_KEY install
 ```
 After installation you can access to DMS over http://<SERVER_IP>:8088 or over cli (type `wca --help` for info)
 
@@ -40,5 +40,5 @@ backup will be created in /opt/wildcore-dms/backups with automatic name (yyyymmd
 
 - For restoring from backup - run command: 
 ```shell
-sudo wca-tool restore --name <name of archive, without extension (.tar.gz)>
+sudo wca-tool restore --name name_of_archive(without extension .tar.gz)
 ```
