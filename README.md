@@ -35,8 +35,8 @@ Screens - [link](./wca/agent-screens.md)
   * Linux (Ubuntu/Debian)
   * MacOS
   * WSL (linux on windows)
-* docker (>=20.10)
-* docker-compose (>=2.4)
+* docker (>=19.03)
+* docker-compose (>=1.17)
 
 ## Before start
 Request agent on web site - https://wildcore.tools or contact over email support@wildcore.tools  .    
