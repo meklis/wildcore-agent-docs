@@ -34,7 +34,7 @@ Screens - [link](./wca/agent-screens.md)
 * OS
   * Linux (Ubuntu/Debian)
   * MacOS
-  * WSL (linux on windows)
+  * WSL2 (linux on windows)
 * docker (>=19.03)
 * docker-compose (>=1.17)
 
