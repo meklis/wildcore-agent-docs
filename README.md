@@ -27,6 +27,7 @@ Screens - [link](./wca/agent-screens.md)
 [Full list of supported devices](https://github.com/meklis/switcher-core/blob/master/docs/DEVICES.md)
 
 ## Requirements:
+* Access to internet from static IP (v4)
 * System
   * 2cores+ CPU
   * 4Gb+ memory
