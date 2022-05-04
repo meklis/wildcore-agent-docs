@@ -31,9 +31,9 @@
 * Labels - специальный обьект с полями, ключ=>значение, позволяет более детально описать событие
 
 ## Отображение событий в веб-интерфейсе   
-![](../res/events_main_logs.png)
+![main_logs](../res/events_main_logs.png)
 
-![](../res/events_dashboard.png)
+![dashboard](../res/events_dashboard.png)
 
 
 ## Включение компонента   
