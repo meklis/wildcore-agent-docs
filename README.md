@@ -20,7 +20,7 @@ Screens - [link](./wca/agent-screens.md)
 
 ## Supported vendors
 - C-Data (Some OLTs)
-- ZTE (OLT C320)
+- ZTE (OLT C320, FW 2.1)
 - D-Link (Some DES/DGS switches)
 - Mikrotik (All routers based on RouterOS)
 
@@ -51,6 +51,10 @@ Please use `wca-tool` for updates, docs -  [wca-tool](/wca-tools/README.md)
 
 ### Migration table (for some upgrades)
 * 0.4.x -> 0.5.x - [recomendations](migrates/0.4.x_0.5.x.md)
+
+## Components
+* [Events (events)](wca/components/events.md) 
+
 
 ## Contacts
 Group: [@wildcore_dms_channel](https://t.me/wildcore_dms_channel)   
