@@ -9,6 +9,7 @@ Screens - [link](./wca/agent-screens.md)
 - **For the provider** - to reduce the response time to diagnostics
 
 ## Basic features
+- Working from box. No more searching OIDs, commands and read documentation.   
 - Adaptive web interface for desktop, tablet or phone
 - User permissions by groups, with allow creating custom groups
 - Working with devices over telnet, SNMP or Mikrotik API (for device with RouterOS)
