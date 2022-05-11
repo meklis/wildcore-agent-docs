@@ -24,7 +24,13 @@ Screens - [link](./wca/agent-screens.md)
 - D-Link (Some DES/DGS switches)
 - Mikrotik (All routers based on RouterOS)
 
-[Full list of supported devices](https://github.com/meklis/switcher-core/blob/master/docs/DEVICES.md)
+[Full list of supported devices](https://github.com/meklis/switcher-core/blob/master/docs/DEVICES.md)      
+
+Also, you can request add more devices, if you need. Please, contact with contact@wildcore.tools or in our telegram channel.  
+    
+If you want to add some specific devices, you can fork [switcher-core](https://github.com/meklis/switcher-core) library and add devices.
+And we will implement them to wildcoreDMS.    
+
 
 ## Requirements:
 * Access to internet from static IP (v4)
