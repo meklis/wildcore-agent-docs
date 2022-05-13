@@ -12,7 +12,7 @@
 ![](../res/alerts_permissions_admin.png)   
 *У системных групп эти права включены по-умолчанию*
      
-     
+     <img height="200" src="../res/alerts_permissions_admin.png"/>
 
 * Для пользователей/операторов и т.д.      
 ![](../res/alerts_permissions_user.png)
