@@ -61,6 +61,7 @@ Please use `wca-tool` for updates, docs -  [wca-tool](/wca-tools/README.md)
 
 ## Components
 * [Events (events)](wca/components/events.md) 
+* [Alerts (alerts)](wca/components/alerts.md) 
 
 
 ## Contacts
