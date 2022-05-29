@@ -43,8 +43,7 @@ And we will implement them to wildcoreDMS.
   * Linux (Ubuntu/Debian)
   * MacOS (not tested)
   * WSL2 (linux on windows, not tested)
-* docker (>=19.03)
-* docker-compose (>=1.22)
+* docker (>=20.10) - [Install docs](https://docs.docker.com/engine/install/)
 
 ## Before start
 Request agent on web site - https://wildcore.tools or contact over email support@wildcore.tools  .    
