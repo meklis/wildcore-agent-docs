@@ -36,9 +36,9 @@ And we will implement them to wildcoreDMS.
 ## Requirements:
 * Access to internet from static IP (v4)
 * System
-  * 2cores+ CPU
-  * 4Gb+ memory
-  * 50Gb+ SSD
+  * 4cores+ CPU
+  * 6Gb+ memory 
+  * 100Gb+ SSD
 * OS
   * Linux (Ubuntu/Debian)
   * MacOS (not tested)
