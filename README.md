@@ -23,6 +23,8 @@ Screens - [link](./wca/agent-screens.md)
 - C-Data (Some OLTs)
 - ZTE (OLT C320, FW 2.1)
 - D-Link (Some DES/DGS switches)
+- Huawei (switches)
+- Edgecore (switches)
 - Mikrotik (All routers based on RouterOS)
 
 [Full list of supported devices](https://github.com/meklis/switcher-core/blob/master/docs/DEVICES.md)      
